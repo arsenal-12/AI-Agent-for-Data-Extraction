@@ -48,14 +48,21 @@ After extraction, click "Write to Google Sheets" to save the extracted data back
 
 # Environment Variables
 -GOOGLE_SHEETS_CREDENTIALS_JSON: Path to the Google Sheets API credentials JSON file.
+
 -SERPAPI_KEY: Your SerpApi API key for web searches.
  ## Dependencies
 -pandas
+
 -requests
+
 -gspread
+
 -google-auth
+
 -sklearn
+
 -streamlit
+
 -python-dotenv
 
 ## Future Improvements
